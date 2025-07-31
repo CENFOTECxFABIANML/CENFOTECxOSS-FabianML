@@ -1,0 +1,20 @@
+en:
+  hello: "Hello world"
+  posts_page:
+    viewer:
+      title: "Publications"
+      reload_button: "Reload Posts"
+      loading: "Loading publications..."
+      error: "Could not load publications."
+    form:
+      create_button: "Create Post"
+      title: "Create New Publication"
+      description: "Complete the fields to create a new post."
+      title_label: "Title"
+      body_label: "Content"
+      submit_button: "Save Post"
+      submitting_button: "Saving..."
+      errors:
+        title: "Title %{messages}"
+        body: "Body %{messages}"
+        unexpected: "An unexpected error occurred. Please try again."
