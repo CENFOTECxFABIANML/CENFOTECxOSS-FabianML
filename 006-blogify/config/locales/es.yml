@@ -1,0 +1,20 @@
+es:
+  hello: "Hola mundo"
+  posts_page:
+    viewer:
+      title: "Publicaciones"
+      reload_button: "Recargar Posts"
+      loading: "Cargando publicaciones..."
+      error: "No se pudieron cargar las publicaciones."
+    form:
+      create_button: "Crear Post"
+      title: "Crear Nueva Publicación"
+      description: "Completa los campos para crear un nuevo post."
+      title_label: "Título"
+      body_label: "Contenido"
+      submit_button: "Guardar Post"
+      submitting_button: "Guardando..."
+      errors:
+        title: "El título %{messages}"
+        body: "El contenido %{messages}"
+        unexpected: "Ocurrió un error inesperado. Inténtalo de nuevo."
